@@ -1,8 +1,10 @@
+## Class Presentation
+
 ## Publications
 ```
 AEG: Automatic Exploit Generation
 
-@inproceedings{yun:qsym,
+@inproceedings{
   title        = {{AEG: Automatic Exploit Generation}},
   author       = {Thanassis Avgerinos, Brent Lim Tze Hao, David Brumley},
   booktitle    = {Proceedings of the NDSS Symposium 2011},
