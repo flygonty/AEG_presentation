@@ -3,7 +3,7 @@
 AEG: Automatic Exploit Generation
 
 @inproceedings{yun:qsym,
-  title        = {{QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing}},
+  title        = {{AEG: Automatic Exploit Generation}},
   author       = {Thanassis Avgerinos, Brent Lim Tze Hao, David Brumley},
   booktitle    = {Proceedings of the NDSS Symposium 2011},
   month        = july,
